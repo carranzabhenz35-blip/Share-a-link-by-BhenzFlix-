@@ -78,7 +78,7 @@ color:#00ffcc;
 
 const supabase = supabase.createClient(
 "PASTE_PROJECT_URL",
-"PASTE_PUBLIC_KEY"
+"sb_publishable_UjizI3Y13boRID5o-72fmw_88u5QraZ"
 )
 
 async function uploadFile(){
